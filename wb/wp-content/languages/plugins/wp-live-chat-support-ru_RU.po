@@ -1,0 +1,689 @@
+# Translation of Plugins - WP-Live Chat by 3CX - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP-Live Chat by 3CX - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-03 07:40:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP-Live Chat by 3CX - Stable (latest release)\n"
+
+#: modules/settings/settings_partials/encryption_settings.php:15
+msgid "Encryption key"
+msgstr "Ключ шифрования"
+
+#: includes/models/settings.php:318
+msgid "Start Chat"
+msgstr "Начать чат"
+
+#: modules/agent_chat/agent_chat_view.php:158
+msgid "Send"
+msgstr "Отправить"
+
+#: modules/support/support_page.php:12
+#: modules/support/support_controller.php:11
+#: modules/chat_client/chat_client_controller.php:95
+msgid "Support"
+msgstr "Поддержка"
+
+#: modules/support/support_view.php:97
+msgid "Missed Chats"
+msgstr "Пропущенные чаты"
+
+#: includes/models/settings.php:339
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "Пожалуйста, нажмите «Начать чат», чтобы начать чат с агентом"
+
+#: includes/models/settings.php:311
+msgid "Questions?"
+msgstr "Есть вопросы?"
+
+#: includes/helpers/utils_helper.php:762 includes/wplc_admin_menu.php:14
+#: includes/wplc_admin_menu.php:17
+msgid "Live Chat"
+msgstr "Живой чат"
+
+#: modules/support/support_view.php:146
+msgid "Troubleshooting"
+msgstr "Устранение проблем"
+
+#: modules/session_details/session_details_view.php:25
+msgid "Chat initiated on:"
+msgstr "Чат начат:"
+
+#: modules/session_details/session_details_view.php:28
+msgid "Browser:"
+msgstr "Браузер:"
+
+#: modules/settings/settings_partials/general_settings.php:327
+msgid "User"
+msgstr "Пользователь"
+
+#: modules/sessions/sessions_view.php:93 modules/triggers/triggers_view.php:47
+#: modules/webhooks/webhooks_view.php:46
+#: modules/custom_fields/custom_fields_view.php:51
+#: modules/quick_responses/quick_responses_view.php:49
+#: modules/offline_messages/offline_messages_view.php:43
+#: modules/departments/departments_view.php:44
+msgid "Actions"
+msgstr "Действия"
+
+#: modules/offline_messages/offline_messages_view.php:71
+msgid "Delete Message"
+msgstr "Удалить сообщение"
+
+#: includes/models/settings.php:317
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: includes/models/settings.php:314
+msgid "Leave a message"
+msgstr "Оставить сообщение"
+
+#: includes/models/settings.php:342
+msgid "Welcome. How may I help you?"
+msgstr "Здравствуйте! Чем могу вам помочь?"
+
+#: includes/models/settings.php:341
+msgid "No answer. Try again later."
+msgstr "Нет ответа. Попробуйте позже."
+
+#: includes/models/trigger.php:68 modules/triggers/manage_trigger_view.php:47
+msgid "All"
+msgstr "Все"
+
+#: modules/settings/settings_partials/chatbox_settings.php:7
+msgid "Bottom left"
+msgstr "Внизу слева"
+
+#: modules/settings/settings_partials/chatbox_settings.php:8
+msgid "Bottom right"
+msgstr "Внизу справа"
+
+#: modules/settings/settings_partials/chatbox_settings.php:223
+msgid "Picture"
+msgstr "Изображение"
+
+#: modules/settings/settings_partials/chatbox_settings.php:234
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: modules/settings/settings_view.php:40
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: modules/sessions/sessions_view.php:126 modules/triggers/triggers_view.php:45
+#: modules/custom_fields/custom_fields_view.php:49
+#: modules/custom_fields/manage_custom_field_view.php:50
+#: modules/quick_responses/quick_responses_view.php:47
+#: modules/quick_responses/manage_quick_response_view.php:41
+msgid "Status"
+msgstr "Статус"
+
+#: modules/sessions/sessions_view.php:128
+msgid "Action"
+msgstr "Действие"
+
+#: modules/agent_chat/agent_chat_view.php:101
+msgid "End chat"
+msgstr "Завершить чат"
+
+#: modules/settings/settings_page.php:13
+#: modules/settings/settings_controller.php:9
+#: modules/settings/settings_view.php:2
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/models/quick_response.php:15 includes/models/custom_field.php:19
+#: modules/custom_fields/manage_custom_field_view.php:53
+#: modules/quick_responses/manage_quick_response_view.php:44
+msgid "Active"
+msgstr "Активный"
+
+#: modules/settings/settings_partials/chatbox_settings.php:9
+msgid "Left"
+msgstr "Слева"
+
+#: modules/settings/settings_partials/chatbox_settings.php:10
+msgid "Right"
+msgstr "Справа"
+
+#: modules/settings/settings_partials/agents_settings.php:28
+msgid "Select"
+msgstr "Выбрать"
+
+#: modules/triggers/triggers_view.php:39
+#: modules/triggers/manage_trigger_controller.php:133
+#: modules/custom_fields/custom_fields_view.php:45
+#: modules/custom_fields/manage_custom_field_controller.php:131
+msgid "Type"
+msgstr "Тип"
+
+#: modules/settings/settings_partials/chatbox_settings.php:130
+msgid "Time"
+msgstr "Время"
+
+#: modules/settings/settings_partials/agents_settings.php:34
+msgid "Add Agent"
+msgstr "Добавить Менеджера"
+
+#: modules/settings/settings_partials/encryption_settings.php:1
+msgid "Chat Encryption"
+msgstr "Шифрование чата"
+
+#: modules/settings/settings_partials/agents_settings.php:26
+msgid "Add New Agent"
+msgstr "Добавить нового агента"
+
+#: modules/settings/settings_partials/styling_settings.php:116
+msgid "No Animation"
+msgstr "Нет анимации"
+
+#: modules/settings/settings_partials/styling_settings.php:111
+msgid "Fade In"
+msgstr "Постепенное появление"
+
+#: modules/settings/settings_partials/styling_settings.php:106
+msgid "Slide From The Side"
+msgstr "Появление слайда со стороны"
+
+#: modules/settings/settings_partials/styling_settings.php:101
+msgid "Slide Up"
+msgstr "Появление слайда снизу вверх"
+
+#: modules/settings/settings_partials/offline_messages_settings.php:6
+msgid "The chat window will be hidden when it is offline. Users will not be able to send offline messages to you"
+msgstr "Окно чата будет скрыто, когда агент не в сети. Пользователи не смогут отправлять вам оффлайн сообщения"
+
+#: modules/settings/settings_partials/chatbox_settings.php:102
+msgid "By checking this, only users that are logged in will be able to chat with you."
+msgstr "Если этот пункт выбран, только пользователи, которые вошли в систему, смогут общаться с Вами в чате."
+
+#: modules/settings/settings_partials/chatbox_settings.php:37
+msgid "Expand the chat box automatically (prompts the user to enter their name and email address)."
+msgstr "Развернуть окно чата автоматически (предлагает пользователю ввести свое имя и адрес электронной почты)."
+
+#: includes/wplc_js_manager.php:29
+msgid "A new chat has been received. Please go the 'Live Chat' page to accept the chat"
+msgstr "Новый чат получен. Перейдите на страницу «Live Chat», чтобы принять общение в чате."
+
+#: modules/settings/settings_partials/encryption_settings.php:5
+msgid "All messages will be encrypted when being sent to and from the user and agent."
+msgstr "Все сообщения будут зашифрованы при отправке между пользователем и агентом."
+
+#: modules/settings/settings_partials/encryption_settings.php:5
+msgid "Enable Encryption"
+msgstr "Включить шифрование"
+
+#: modules/settings/settings_partials/blocked_visitors_settings.php:6
+msgid "Blocking a user's IP Address here will hide the chat window from them, preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr "Блокировка IP-адреса пользователя будет скрывать окно чата от него, не позволяя ему общаться с вами. Каждый IP-адрес должен быть на новой строке"
+
+#: modules/settings/settings_partials/blocked_visitors_settings.php:5
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Введите каждый IP-адрес, который вы хотите заблокировать, в новой строке"
+
+#: includes/helpers/utils_helper.php:647 includes/wplc_admin_menu.php:173
+#: includes/wplc_js_manager.php:34
+msgid "Online"
+msgstr "Статус (Онлайн)"
+
+#: modules/settings/settings_partials/chatbox_settings.php:247
+msgid "Logo"
+msgstr "Логотип"
+
+#: includes/wplc_js_manager.php:28
+msgid "New chat received"
+msgstr "Получен новый чат"
+
+#: ajax/user.php:326 ajax/agent.php:259
+msgid "Admin has closed and ended the chat"
+msgstr "Администратор закрыл и закончил чат"
+
+#: includes/helpers/utils_helper.php:659
+msgid "Accept Chat"
+msgstr "Принять чат"
+
+#: includes/helpers/offline_messages_helper.php:139
+#: modules/sessions/sessions_view.php:120 modules/triggers/triggers_view.php:37
+#: modules/triggers/manage_trigger_controller.php:127
+#: modules/custom_fields/custom_fields_view.php:43
+#: modules/custom_fields/manage_custom_field_controller.php:125
+#: modules/settings/settings_partials/general_settings.php:43
+#: modules/settings/settings_partials/chatbox_settings.php:77
+#: modules/activation_wizard/wizard_partials/invite_agents.php:20
+#: modules/activation_wizard/wizard_partials/invite_agents.php:76
+#: modules/activation_wizard/wizard_partials/pbx_settings.php:26
+#: modules/offline_messages/offline_messages_view.php:37
+#: modules/departments/manage_department_controller.php:98
+#: modules/departments/manage_department_view.php:23
+#: modules/departments/departments_view.php:42
+msgid "Name"
+msgstr "Имя"
+
+#: includes/helpers/offline_messages_helper.php:140
+#: modules/sessions/sessions_view.php:122
+#: modules/settings/settings_partials/general_settings.php:36
+#: modules/activation_wizard/wizard_partials/invite_agents.php:26
+#: modules/activation_wizard/wizard_partials/invite_agents.php:82
+#: modules/activation_wizard/wizard_partials/pbx_settings.php:25
+#: modules/offline_messages/offline_messages_view.php:39
+msgid "Email"
+msgstr "Email"
+
+#: modules/sessions/sessions_view.php:118
+#: modules/settings/settings_partials/chatbox_settings.php:127
+#: modules/offline_messages/offline_messages_view.php:35
+msgid "Date"
+msgstr "Дата"
+
+#: modules/support/support_view.php:50
+#: modules/settings/settings_controller.php:19
+#: modules/settings/settings_partials/general_settings.php:1
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: modules/settings/settings_controller.php:25
+msgid "Chat Box"
+msgstr "Окно чата"
+
+#: modules/settings/settings_controller.php:31
+#: modules/settings/settings_partials/offline_messages_settings.php:1
+#: modules/offline_messages/offline_messages_controller.php:14
+#: modules/offline_messages/offline_messages_page.php:12
+#: modules/data_tools/data_tools_view.php:102
+msgid "Offline Messages"
+msgstr "Оффлайн сообщения"
+
+#: modules/settings/settings_controller.php:37
+#: modules/settings/settings_partials/styling_settings.php:1
+msgid "Styling"
+msgstr "Внешний вид"
+
+#: modules/settings/settings_controller.php:410
+#: modules/settings/settings_partials/general_settings.php:5
+msgid "Chat enabled"
+msgstr "Чат включен"
+
+#: modules/sessions/sessions_view.php:8 modules/sessions/sessions_view.php:22
+#: modules/triggers/triggers_view.php:13 modules/webhooks/webhooks_view.php:13
+#: modules/custom_fields/custom_fields_view.php:13
+#: modules/settings/settings_partials/general_settings.php:10
+#: modules/quick_responses/quick_responses_view.php:13
+#: modules/offline_messages/offline_messages_view.php:8
+#: modules/departments/departments_view.php:15
+msgid "Yes"
+msgstr "Да"
+
+#: modules/sessions/sessions_view.php:9 modules/sessions/sessions_view.php:23
+#: modules/triggers/triggers_view.php:14 modules/webhooks/webhooks_view.php:14
+#: modules/custom_fields/custom_fields_view.php:15
+#: modules/settings/settings_partials/general_settings.php:13
+#: modules/quick_responses/quick_responses_view.php:15
+#: modules/offline_messages/offline_messages_view.php:10
+#: modules/departments/departments_view.php:16
+msgid "No"
+msgstr "Нет"
+
+#: includes/models/session.php:40
+msgid "complete"
+msgstr "завершен"
+
+#: includes/models/session.php:43
+msgid "pending"
+msgstr "в обработке"
+
+#: includes/models/session.php:46
+msgid "active"
+msgstr "активен"
+
+#: includes/models/session.php:49
+msgid "browsing"
+msgstr "серфинг"
+
+#: ajax/agent.php:423
+msgid "New"
+msgstr "Новый"
+
+#: includes/helpers/utils_helper.php:660
+msgid "Open Chat"
+msgstr "Открыть чат"
+
+#: modules/support/support_view.php:134
+#: modules/settings/settings_controller.php:56
+msgid "Encryption"
+msgstr "Шифрование"
+
+#: modules/settings/settings_partials/general_settings.php:106
+msgid "Play a sound when a new message is received"
+msgstr "Воспроизводить звук при получении нового сообщения "
+
+#: modules/settings/settings_partials/general_settings.php:81
+msgid "Enable On Mobile Devices"
+msgstr "Включить на мобильных устройствах"
+
+#: modules/settings/settings_partials/chatbox_settings.php:113
+msgid "A user's Name and Email Address will be used by default if they are logged in."
+msgstr "Имя пользователя и адрес электронной почты будут использоваться по умолчанию, если они вошли в систему."
+
+#: modules/settings/settings_partials/chatbox_settings.php:111
+msgid "Use Logged In User Details"
+msgstr "Использовать авторизованные данные пользователя"
+
+#: modules/settings/settings_partials/general_settings.php:70
+msgid "Input Field Replacement Text"
+msgstr "Текст для замены в поле ввода"
+
+#: modules/settings/settings_partials/general_settings.php:155
+msgid "Checking this will allow you to change your status to Online or Offline on the Live Chat page."
+msgstr "Отметив эту опцию, вы сможете изменить свой статус на Онлайн или Оффлайн на странице Live Chat."
+
+#: modules/settings/settings_controller.php:49
+msgid "Blocked Visitors"
+msgstr "Заблокированные посетители"
+
+#: ajax/agent.php:425
+msgid "Returning"
+msgstr "Постоянные посетители"
+
+#: modules/sessions/sessions_view.php:124
+msgid "URL"
+msgstr "URL"
+
+#: modules/settings/settings_controller.php:43
+msgid "Agents"
+msgstr "Агенты"
+
+#: modules/reports/reports_view.php:74 modules/reports/reports_view.php:79
+msgid "Bad"
+msgstr "Плохо"
+
+#: modules/reports/reports_view.php:73 modules/reports/reports_view.php:78
+msgid "Good"
+msgstr "Хорошо"
+
+#: includes/helpers/utils_helper.php:649
+msgid "Status (Offline)"
+msgstr "Статус (Оффлайн)"
+
+#: includes/helpers/utils_helper.php:648 includes/wplc_admin_menu.php:173
+#: includes/wplc_js_manager.php:35
+msgid "Offline"
+msgstr "Оффлайн"
+
+#: includes/helpers/utils_helper.php:646
+msgid "Status (Online)"
+msgstr "Статус (Онлайн)"
+
+#: modules/settings/settings_partials/advanced_settings.php:1
+msgid "Chat Server"
+msgstr "Сервер чата"
+
+#: modules/settings/settings_controller.php:75
+msgid "Advanced Features"
+msgstr "Дополнительные возможности"
+
+#: modules/gdpr.php:49
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: modules/webhooks/manage_webhook_view.php:44
+msgid "POST"
+msgstr "POST"
+
+#: modules/webhooks/manage_webhook_view.php:43
+msgid "GET"
+msgstr "GET"
+
+#: modules/settings/settings_controller.php:436
+#: modules/settings/settings_partials/privacy_settings.php:16
+msgid "Organization name"
+msgstr "Название организации"
+
+#: modules/webhooks/manage_webhook_controller.php:107
+#: modules/webhooks/manage_webhook_view.php:23
+#: modules/webhooks/webhooks_view.php:40
+msgid "Event"
+msgstr "Событие"
+
+#: modules/webhooks/manage_webhook_controller.php:101
+#: modules/webhooks/manage_webhook_view.php:33
+#: modules/webhooks/webhooks_view.php:42
+msgid "Target URL"
+msgstr "Целевой URL"
+
+#: modules/webhooks/manage_webhook_controller.php:113
+#: modules/webhooks/manage_webhook_view.php:39
+#: modules/webhooks/webhooks_view.php:44
+msgid "Method"
+msgstr "Метод"
+
+#: includes/helpers/webhooks_helper.php:79
+msgid "Settings Changed"
+msgstr "Настройки изменены"
+
+#: modules/data_tools/data_tools_view.php:17
+msgid "Import Complete"
+msgstr "Импорт завершен"
+
+#: modules/data_tools/data_tools_view.php:62
+msgid "Chat Settings"
+msgstr "Настройки чата"
+
+#: modules/data_tools/data_tools_view.php:27
+#: modules/data_tools/data_tools_view.php:71
+msgid "Import Settings"
+msgstr "Импорт настроек"
+
+#: modules/data_tools/data_tools_view.php:67
+msgid "Export Settings"
+msgstr "Экспорт настроек"
+
+#: modules/data_tools/data_tools_view.php:83
+msgid "Export History"
+msgstr "Экспорт истории"
+
+#: modules/sessions/sessions_page.php:82
+msgid "Chat ID"
+msgstr "ID чата"
+
+#: modules/dashboard/dashboard_view.php:56
+msgid "Today"
+msgstr "Сегодня"
+
+#: modules/dashboard/dashboard_view.php:50
+msgid "Total"
+msgstr "Всего"
+
+#: modules/dashboard/dashboard_view.php:75
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: modules/tools/tools_controller.php:10 modules/tools/tools_page.php:15
+#: modules/tools/tools_view.php:2
+msgid "Tools"
+msgstr "Инструменты"
+
+#: modules/support/support_view.php:124 modules/tools/tools_view.php:13
+#: modules/quick_responses/quick_responses_controller.php:13
+msgid "Quick Responses"
+msgstr "Быстрые ответы"
+
+#: modules/dashboard/dashboard_view.php:41
+msgid "Chats"
+msgstr "Чаты"
+
+#: modules/settings/settings_partials/agents_settings.php:40
+msgid "Users"
+msgstr "Пользователи"
+
+#: modules/settings/settings_controller.php:63
+#: modules/settings/settings_partials/business_hours_settings.php:1
+msgid "Business Hours"
+msgstr "Рабочие часы"
+
+#: modules/settings/settings_partials/business_hours_settings.php:4
+msgid "Enable Business Hours"
+msgstr "Включить рабочие часы"
+
+#: modules/settings/settings_partials/chatbox_settings.php:326
+msgid "Twitter URL..."
+msgstr "Twitter URL..."
+
+#: modules/settings/settings_partials/chatbox_settings.php:304
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: modules/settings/settings_partials/chatbox_settings.php:259
+msgid "Remove Logo"
+msgstr "Удалить логотип"
+
+#: modules/settings/settings_partials/chatbox_settings.php:257
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: modules/settings/settings_partials/chatbox_settings.php:200
+msgid "Upload Icon"
+msgstr "Загрузить иконку"
+
+#: modules/settings/settings_partials/chatbox_settings.php:187
+msgid "Icon"
+msgstr "Иконка"
+
+#: modules/settings/settings_partials/chatbox_settings.php:239
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: modules/settings/settings_partials/chatbox_settings.php:240
+msgid "Recommended Size 60px x 60px"
+msgstr "Рекомендуемый размер 60px x 60px"
+
+#: modules/settings/settings_partials/chatbox_settings.php:205
+msgid "Recommended Size 50px x 50px"
+msgstr "Рекомендуемый размер 50px x 50px"
+
+#: modules/settings/settings_partials/chatbox_settings.php:203
+#: modules/settings/settings_partials/chatbox_settings.php:208
+msgid "Select Default Icon"
+msgstr "Выбрать иконку по умолчанию"
+
+#: modules/settings/settings_partials/chatbox_settings.php:139
+msgid "Disable Emojis"
+msgstr "Отключить эмодзи"
+
+#: modules/settings/settings_controller.php:412
+#: modules/settings/settings_partials/chatbox_settings.php:4
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: modules/support/support_view.php:66
+#: modules/settings/settings_partials/chatbox_settings.php:1
+msgid "Chat Box Settings"
+msgstr "Настройки окна чата"
+
+#: modules/quick_responses/manage_quick_response_controller.php:86
+#: modules/quick_responses/quick_responses_view.php:41
+#: modules/quick_responses/manage_quick_response_view.php:23
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/models/settings.php:340
+msgid "Guest"
+msgstr "Гость"
+
+#: modules/settings/settings_partials/general_settings.php:50
+msgid "No fields"
+msgstr "Нет полей"
+
+#: modules/settings/settings_partials/general_settings.php:29
+msgid "Name and email"
+msgstr "Имя и e-mail"
+
+#: includes/models/custom_field.php:31
+msgid "Text Field"
+msgstr "Текстовое поле"
+
+#: includes/models/custom_field.php:34
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: modules/custom_fields/manage_custom_field_view.php:32
+msgid "Text"
+msgstr "Текст"
+
+#: modules/custom_fields/manage_custom_field_view.php:29
+msgid "Field Type"
+msgstr "Тип поля"
+
+#: modules/triggers/manage_trigger_view.php:98
+#: modules/webhooks/manage_webhook_view.php:55
+#: modules/custom_fields/manage_custom_field_view.php:65
+#: modules/quick_responses/manage_quick_response_view.php:56
+#: modules/departments/manage_department_view.php:35
+msgid "Cancel"
+msgstr "Отмена"
+
+#: modules/triggers/triggers_view.php:35 modules/webhooks/webhooks_view.php:38
+#: modules/custom_fields/custom_fields_view.php:41
+#: modules/quick_responses/quick_responses_view.php:39
+#: modules/departments/departments_view.php:40
+msgid "ID"
+msgstr "ID"
+
+#: modules/triggers/triggers_view.php:41
+msgid "Page"
+msgstr "Страница"
+
+#: modules/triggers/triggers_view.php:43
+#: modules/custom_fields/custom_fields_view.php:47
+msgid "Content"
+msgstr "Содержимое"
+
+#: modules/triggers/triggers_view.php:81 modules/webhooks/webhooks_view.php:70
+#: modules/custom_fields/custom_fields_view.php:77
+#: modules/quick_responses/quick_responses_view.php:74
+#: modules/departments/departments_view.php:63
+msgid "Edit"
+msgstr "Изменить"
+
+#: modules/sessions/sessions_view.php:166 modules/triggers/triggers_view.php:83
+#: modules/webhooks/webhooks_view.php:72
+#: modules/custom_fields/custom_fields_view.php:79
+#: modules/quick_responses/quick_responses_view.php:76
+#: modules/offline_messages/offline_messages_view.php:72
+#: modules/departments/departments_view.php:65
+msgid "Delete"
+msgstr "Удалить"
+
+#: modules/triggers/manage_trigger_view.php:45
+msgid "Page ID"
+msgstr "ID страницы"
+
+#: modules/triggers/manage_trigger_view.php:30
+msgid "Trigger Type"
+msgstr "Тип триггера"
+
+#: modules/triggers/manage_trigger_view.php:24
+msgid "Trigger Name"
+msgstr "Имя триггера"
+
+#. Author of the plugin
+msgid "3CX"
+msgstr "3CX"
+
+#. Plugin Name of the plugin
+msgid "WP-Live Chat by 3CX"
+msgstr "WP-Live Chat by 3CX"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.3cx.com/wp-live-chat/"
+msgstr "https://www.3cx.com/wp-live-chat/"
+
+#: modules/triggers/triggers_page.php:12
+#: modules/triggers/triggers_controller.php:13
+msgid "Triggers"
+msgstr "Триггеры"
